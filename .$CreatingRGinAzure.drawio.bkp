@@ -1,0 +1,92 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="t90AbW-xpnwmRSRHiNUB">
+    <mxGraphModel dx="1048" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h9ab34tvABGafkXSSzTq-6" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="280" />
+              <mxPoint x="230" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Creating Resource group in Azure&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Manual" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-17" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-18" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Automation&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-7" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="By -&amp;gt; Clicking on Azure Portal&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Imperative&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-21" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-26" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Declarative&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Az Cli" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-22" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Open Source&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Terraform&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-19" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.609;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Need to provide Step&lt;/font&gt;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="130" x="270" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-29" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-30" edge="1" parent="1" source="h9ab34tvABGafkXSSzTq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" target="h9ab34tvABGafkXSSzTq-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Cloud Native&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ARM Templetes&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Bicep" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Exclusive for Azure" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="h9ab34tvABGafkXSSzTq-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Mutil-Cloud tool" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
