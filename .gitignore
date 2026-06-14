@@ -26,3 +26,6 @@ override.tf.json
 
 # VS Code
 .vscode/
+
+
+*.bkp
